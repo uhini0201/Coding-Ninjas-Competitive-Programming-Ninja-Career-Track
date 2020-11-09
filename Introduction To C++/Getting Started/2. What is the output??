@@ -1,9 +1,0 @@
-What will be the output of the following code ?
-#include <iostream>
-using namespace std;
-int main(){
-    cout << "career" << "labs";
-}
-
-
-Ans) careerlabs //The text will be printed exactly like we placed inside double quotes. So first we are printing "coding". After printing, our cursor will be right next to the //'g' of "coding". So "ninjas" will be printed right next to the "coding" without any spaces between them.
