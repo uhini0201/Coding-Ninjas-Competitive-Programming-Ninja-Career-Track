@@ -1,14 +1,7 @@
-#Coding Ninjas
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">
-    <title>
-      readme.md
-
-    </title>
-    <link rel="stylesheet" href="css/styles.css">
-
   </head>
   <body>
     <h1 font-family: 'Sacramento', cursive;>Introduction To C++</h1>
