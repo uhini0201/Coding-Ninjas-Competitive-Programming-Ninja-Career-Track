@@ -1,11 +1,17 @@
 #include<iostream>
-using namespace std;
+using namespace std ;
 
-int main() {
-	int n;
-    cin>>n;
-    int i;
-    for(i=1;i*i<=n;i++)
-    cout<<i-1;
-	
+int main()
+{
+int n;
+cin>>n;
+
+int output=0;
+while(output*output<=n){
+    output=output+1;
+}
+output=output-1;
+cout<< output;
+
+
 }
